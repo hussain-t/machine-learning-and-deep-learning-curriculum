@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xV
 
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
-(c) If you're not from Mathematics background, obviously you have to visit https://www.khanacademy.org/math/calculus-home. It may take 2-3 weeks if you're a complete beginer. I would suggest to watch the videos by 1.x speed to complete them quickly.
+(c) If you're not from Mathematics background, obviously you have to visit [Khan Academy.](https://www.khanacademy.org/) It may take 2-3 weeks if you're a complete beginer. I would suggest to watch the videos by 1.x speed to complete them quickly.
 
 #### [Algebra 1:](https://www.khanacademy.org/math/algebra)
 https://www.khanacademy.org/math/algebra
@@ -39,7 +39,7 @@ https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-20
 https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/
 
 
-(d) If you're a beginer, you can always fo back to https://www.khanacademy.org/math/calculus-home
+(d) If you're a beginer, you can always go back to [Khan Academy.](https://www.khanacademy.org/)
 
 https://www.khanacademy.org/math/calculus-home
 
